@@ -1,4 +1,4 @@
-# mucicapp
+# music app with background functioanlity in flutter
 
 A new Flutter project.
 
